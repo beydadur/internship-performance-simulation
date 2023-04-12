@@ -1,4 +1,4 @@
-# Lab-3 Prelab: Internship performance simulation
+Internship performance simulation
 
 
 
